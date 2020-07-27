@@ -29,3 +29,10 @@ body {
     border-radius: 5px;
     font-size: 30px; }
 
+#explore-section .fa, #share-section .fa {
+  color: #fff;
+  background: #008ed6;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
+
